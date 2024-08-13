@@ -11,18 +11,36 @@ public class Box {
         this.setHeight(height);
     }
 
-    public void setLength(double length) {
+    private void setLength(double length) {
         if (length <= 0) {
-            throw new IllegalArgumentException("Width cannot be zero or negative.");
+            throw new IllegalArgumentException("Length cannot be zero or negative.");
         }
         this.length = length;
     }
 
-    public void setWidth(double width) {
+    private void setWidth(double width) {
+        if (width <= 0) {
+            throw new IllegalArgumentException("Width cannot be zero or negative.");
+        }
         this.width = width;
     }
 
-    public void setHeight(double height) {
+    private void setHeight(double height) {
+        if (height <= 0) {
+            throw new IllegalArgumentException("Height cannot be zero or negative.");
+        }
         this.height = height;
+    }
+
+    public double calculateVolume() {
+        return length * width * height;
+    }
+
+    public double calculateLateral() {
+        return 2 * (length * height + width * height);
+    }
+
+    public double calculateSurface() {
+        return 2 * (length * height + width * height + width * length);
     }
 }
