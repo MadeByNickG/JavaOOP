@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82cd4e91-796f-40bb-853a-69e6575cb88d" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/encapsulationEx/animalFarm/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulationEx/animalFarm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulationEx/footballTeam/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulationEx/footballTeam/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulationEx/footballTeam/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulationEx/shoppingSpree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulationEx/shoppingSpree/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulationEx/shoppingSpree/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/firstTask/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/firstTask/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/firstTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/firstTask/Puppy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulationEx/classBox/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulationEx/classBox/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulationEx/classBox/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulationEx/classBox/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MadeByNickG"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MadeByNickG&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MadeByNickG/JavaOOP.git",
-    "accountId": "a57ce88c-8059-4580-992d-0aabad5e5650"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MadeByNickG/JavaOOP.git&quot;,
+    &quot;accountId&quot;: &quot;a57ce88c-8059-4580-992d-0aabad5e5650&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2kYew9Pv0wXkYh5QG8eePh4uL82" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,6 +54,7 @@
     "Application.Main.executor": "Run",
     "Application.encapsulationEx.animalFarm.Main.executor": "Run",
     "Application.encapsulationEx.shoppingSpree.Main.executor": "Run",
+    "Application.inheritance.firstTask.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -68,7 +63,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.encapsulationEx.shoppingSpree.Main">
+  <component name="RunManager" selected="Application.inheritance.firstAndSecondTask.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="encapsulationEx.classBox.Main" />
       <module name="JavaOOP" />
@@ -108,8 +103,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="inheritance.firstAndSecondTask.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.firstAndSecondTask.Main" />
+      <module name="JavaOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.firstAndSecondTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.inheritance.firstAndSecondTask.Main" />
         <item itemvalue="Application.encapsulationEx.shoppingSpree.Main" />
         <item itemvalue="Application.encapsulationEx.animalFarm.Main" />
         <item itemvalue="Application.Main" />
@@ -133,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723469260384</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1723553906954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723553906954</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
