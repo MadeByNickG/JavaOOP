@@ -8,9 +8,9 @@ public class Main {
         List<Person> persons = new ArrayList<>();
 
 
-        persons.add(new Bulgarian("Peter"));
-        persons.add(new European("Peter"));
-        persons.add(new Chinese("Peter"));
+//        persons.add(new Bulgarian("Peter"));
+//        persons.add(new European("Peter"));
+//        persons.add(new Chinese("Peter"));
 
         for (Person person : persons) {
             print(person);
