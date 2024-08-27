@@ -5,23 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82cd4e91-796f-40bb-853a-69e6575cb88d" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/birthdayCelebrations/Birthable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/birthdayCelebrations/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/birthdayCelebrations/Identifiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/birthdayCelebrations/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/birthdayCelebrations/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/birthdayCelebrations/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/birthdayCelebrations/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/defineAnInterfacePerson/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/defineAnInterfacePerson/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/defineAnInterfacePerson/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/multipleImplementation/Birthable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/multipleImplementation/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/multipleImplementation/Identifiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/multipleImplementation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/multipleImplementation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/AddCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/AddRemovable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/AddRemoveCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/Addable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/MyListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Birthable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Buyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Identifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Rebel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/LieutenantGeneral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/LieutenantGeneralImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/Private.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/PrivateImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/Soldier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/SoldierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/telephony/Browsable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/telephony/Callable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/telephony/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/telephony/Smartphone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfacesAndAbstraction/SayHello/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfacesAndAbstraction/SayHello/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,30 +85,33 @@
     "Application.inheritanceEx.person.Main.executor": "Run",
     "Application.interfacesAndAbstraction.carShop.Main.executor": "Run",
     "Application.interfacesAndAbstractionEx.birthdayCelebrations.Main.executor": "Run",
+    "Application.interfacesAndAbstractionEx.collectionHierarchy.Main.executor": "Run",
     "Application.interfacesAndAbstractionEx.defineAnInterfacePerson.Main.executor": "Run",
     "Application.interfacesAndAbstractionEx.multipleImplementation.Main.executor": "Run",
+    "Application.interfacesAndAbstractionEx.telephony.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "G:/My Drive/Java/JavaOOP/src/interfacesAndAbstractionEx/birthdayCelebrations",
+    "last_opened_file_path": "G:/My Drive/Java/JavaOOP/src/interfacesAndAbstractionEx/foodShortage",
     "onboarding.tips.debug.path": "G:/My Drive/Java/JavaOOP/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\My Drive\Java\JavaOOP\src\interfacesAndAbstractionEx\foodShortage" />
       <recent name="G:\My Drive\Java\JavaOOP\src\interfacesAndAbstractionEx\birthdayCelebrations" />
       <recent name="G:\My Drive\Java\JavaOOP\src\interfacesAndAbstractionEx\multipleImplementation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.interfacesAndAbstractionEx.birthdayCelebrations.Main">
+  <component name="RunManager" selected="Application.interfacesAndAbstractionEx.telephony.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritanceEx.animals.Main" />
+      <option name="MAIN_CLASS_NAME" value="interfacesAndAbstractionEx.foodShortage.Main" />
       <module name="JavaOOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritanceEx.animals.*" />
+          <option name="PATTERN" value="interfacesAndAbstractionEx.foodShortage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interfacesAndAbstractionEx.defineAnInterfacePerson.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfacesAndAbstractionEx.defineAnInterfacePerson.Main" />
+    <configuration name="interfacesAndAbstractionEx.collectionHierarchy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfacesAndAbstractionEx.collectionHierarchy.Main" />
       <module name="JavaOOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfacesAndAbstractionEx.defineAnInterfacePerson.*" />
+          <option name="PATTERN" value="interfacesAndAbstractionEx.collectionHierarchy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interfacesAndAbstraction.CarShop.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfacesAndAbstraction.CarShop.Main" />
+    <configuration name="interfacesAndAbstractionEx.telephony.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfacesAndAbstractionEx.telephony.Main" />
       <module name="JavaOOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfacesAndAbstraction.CarShop.*" />
+          <option name="PATTERN" value="interfacesAndAbstractionEx.telephony.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.interfacesAndAbstractionEx.telephony.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.interfacesAndAbstractionEx.collectionHierarchy.Main" />
         <item itemvalue="Application.interfacesAndAbstractionEx.birthdayCelebrations.Main" />
         <item itemvalue="Application.interfacesAndAbstractionEx.multipleImplementation.Main" />
-        <item itemvalue="Application.interfacesAndAbstractionEx.defineAnInterfacePerson.Main" />
-        <item itemvalue="Application.interfacesAndAbstraction.CarShop.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724335878584</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <option name="closed" value="true" />
+      <created>1724675657478</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724675657478</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
