@@ -5,32 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82cd4e91-796f-40bb-853a-69e6575cb88d" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/AddCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/AddRemovable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/AddRemoveCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/Addable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/collectionHierarchy/MyListImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Birthable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Buyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Identifiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/foodShortage/Rebel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/LieutenantGeneral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/LieutenantGeneralImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/Private.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/PrivateImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/Soldier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/militaryElite/SoldierImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/telephony/Browsable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/telephony/Callable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/telephony/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfacesAndAbstractionEx/telephony/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/mathOperation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/mathOperation/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/shapes/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphismEx/vehicles/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphismEx/vehicles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphismEx/vehicles/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphismEx/vehicles/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphismEx/vehicles/VehicleImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,6 +71,8 @@
     "Application.interfacesAndAbstractionEx.defineAnInterfacePerson.Main.executor": "Run",
     "Application.interfacesAndAbstractionEx.multipleImplementation.Main.executor": "Run",
     "Application.interfacesAndAbstractionEx.telephony.Main.executor": "Run",
+    "Application.polymorphism.mathOperation.Main.executor": "Run",
+    "Application.polymorphismEx.vehicles.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -105,26 +89,13 @@
       <recent name="G:\My Drive\Java\JavaOOP\src\interfacesAndAbstractionEx\multipleImplementation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.interfacesAndAbstractionEx.telephony.Main">
+  <component name="RunManager" selected="Application.polymorphismEx.vehicles.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfacesAndAbstractionEx.foodShortage.Main" />
       <module name="JavaOOP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="interfacesAndAbstractionEx.foodShortage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="interfacesAndAbstractionEx.birthdayCelebrations.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfacesAndAbstractionEx.birthdayCelebrations.Main" />
-      <module name="JavaOOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interfacesAndAbstractionEx.birthdayCelebrations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interfacesAndAbstractionEx.multipleImplementation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfacesAndAbstractionEx.multipleImplementation.Main" />
-      <module name="JavaOOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interfacesAndAbstractionEx.multipleImplementation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="interfacesAndAbstractionEx.telephony.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfacesAndAbstractionEx.telephony.Main" />
       <module name="JavaOOP" />
@@ -171,13 +129,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="polymorphismEx.vehicles.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphismEx.vehicles.Main" />
+      <module name="JavaOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphismEx.vehicles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="polymorphism.mathOperation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.mathOperation.Main" />
+      <module name="JavaOOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphism.mathOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.polymorphismEx.vehicles.Main" />
+        <item itemvalue="Application.polymorphism.mathOperation.Main" />
         <item itemvalue="Application.interfacesAndAbstractionEx.telephony.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.interfacesAndAbstractionEx.collectionHierarchy.Main" />
-        <item itemvalue="Application.interfacesAndAbstractionEx.birthdayCelebrations.Main" />
-        <item itemvalue="Application.interfacesAndAbstractionEx.multipleImplementation.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724675657478</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <option name="closed" value="true" />
+      <created>1724757520775</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724757520775</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
