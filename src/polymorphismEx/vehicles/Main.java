@@ -39,6 +39,8 @@ public class Main {
                     double liters = Double.parseDouble(tokens[2]);
                     vehicles.get(vehicleType).refuel(liters);
                     break;
+                default:
+                    throw new IllegalArgumentException("No such command!");
             }
         }
 
